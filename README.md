@@ -1,4 +1,4 @@
-**Password Encryption**
+##Password Encryption
 Easily encrypt any form of text or password just simply calling the encrypt function, Adding this to your project can help in many ways, My intial thought when making this script is
 when adding a password to a DB it makes passwords extra secure and stores passwords inside the DB that are completely encrypted.
 
